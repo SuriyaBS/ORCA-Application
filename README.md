@@ -16,3 +16,6 @@ The app is designed with security in mind, ensuring that only authenticated user
 
 Overall, the app provides a powerful tool for managing coding resources, making it easy for companies to store, organize, and manage their resources in a pictorial form. With its intuitive interface, version control, and security features, the app helps companies streamline their development processes and improve collaboration between team members.
 
+Hardcode Authentication:
+Email:John@gmail.com
+password:suri
