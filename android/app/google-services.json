@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139399214689",
+    "project_id": "suri-d1c3c",
+    "storage_bucket": "suri-d1c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139399214689:android:6b2716f65aed947f2b5c20",
+        "android_client_info": {
+          "package_name": "com.example.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139399214689-ba7tslurnia9hscg8h2iplod7ghjgisf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdn-pydoXmlNNaBP-weVHKlCHbLhf8AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139399214689-ba7tslurnia9hscg8h2iplod7ghjgisf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
